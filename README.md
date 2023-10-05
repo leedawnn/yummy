@@ -1,2 +1,2 @@
-# \[inflearn] 함수형 프로그래밍과 JavaScript ES6+
+# 🥦 몸에 좋은 개발 지식 뜯어먹기
 
