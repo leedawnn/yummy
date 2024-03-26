@@ -16,4 +16,6 @@
 
 자바스크립트는 원래 브라우저 위에서 동작하는 언어이다. 그런데 `NodeJS`가 등장하면서 굉장히 많은 변화가 생겼다.
 
-예를 들어, Electron을 보면 알 수 있다. Electron은 자바스크립트로 데스크탑 애플리케이션을 개발할 수 있는 프레임워크이다. 찾아보면 이걸로 만들어진 게 얼마나 많은지 알 수 있다. VSCode, Facebook Messenger, Twitch ...
+예를 들어, Electron을 보면 알 수 있다. Electron은 자바스크립트로 데스크탑 애플리케이션을 개발할 수 있는 프레임워크이다. 찾아보면 이걸로 만들어진 게 얼마나 많은지 알 수 있다.&#x20;
+
+VSCode, Facebook Messenger, Twitch ...

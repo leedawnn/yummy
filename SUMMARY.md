@@ -16,3 +16,4 @@
 ## \[UDEMY] 클린코드 자바스크립트&#x20;
 
 * [Section 0. 들어가기 전](udemy/section-0..md)
+* [Section 1. 변수 다루기](udemy/section-1..md)
