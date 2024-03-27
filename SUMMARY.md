@@ -13,7 +13,7 @@
 * [Section 1) 쿼리 생성 및 로딩/에러 상태](udemy-react-query-react/section-1/README.md)
   * [1. React-Query에 대해](udemy-react-query-react/section-1/1.-react-query.md)
 
-## \[UDEMY] 클린코드 자바스크립트&#x20;
+## \[UDEMY] 클린코드 자바스크립트  <a href="#udemy-clean-code-js" id="udemy-clean-code-js"></a>
 
-* [Section 0. 들어가기 전](udemy/section-0..md)
-* [Section 1. 변수 다루기](udemy/section-1..md)
+* [Section 0. 들어가기 전](udemy-clean-code-js/section-0..md)
+* [Section 1. 변수 다루기](udemy-clean-code-js/section-1..md)
